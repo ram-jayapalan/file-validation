@@ -427,10 +427,10 @@ class ValidateFile(object):
                 fo.close()
 
 
-if __name__ == '__main__':
-    configfile = '/Users/ram.jayapalan/Downloads/test/test.ini'
-    sourcefile = '/Users/ram.jayapalan/Downloads/test/test_20200518.txt'
-    outputdir = '/Users/ram.jayapalan/Downloads/test/'
-    val = ValidateFile(configfile, sourcefile)
-    res = val.getresult(outputdir=outputdir)
-    print(res)
+# if __name__ == '__main__':
+#     configfile = '/Users/ram.jayapalan/Downloads/test/test.ini'
+#     sourcefile = '/Users/ram.jayapalan/Downloads/test/test_20200518.txt'
+#     outputdir = '/Users/ram.jayapalan/Downloads/test/'
+#     val = ValidateFile(configfile, sourcefile)
+#     res = val.getresult(outputdir=outputdir)
+#     print(res)
