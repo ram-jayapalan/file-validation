@@ -10,7 +10,7 @@ System Requirements
 
 **Operating System**: Windows/Linux/Mac
 
-**Python version**: 3
+**Python version**: 3.7 and above
 
 Usage
 -----
