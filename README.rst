@@ -1,3 +1,7 @@
+.. image:: https://badge.fury.io/py/filevalidation.png
+    :target: https://badge.fury.io/py/filevalidation
+
+
 File Validation
 ----------------
 
