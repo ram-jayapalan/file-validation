@@ -186,7 +186,7 @@ With the config rules in place, create an instance of ``ValidateFile`` class and
 
 .. code-block:: python
 
-    from filevalidation.validatefile import ValidateFile
+    from validatefile.main import ValidateFile
 
     val = ValidateFile(configfile='/path/to/config/file', sourcefile='/path/to/source/file')
 
@@ -203,7 +203,7 @@ where
 
 .. code-block:: python
 
-    from filevalidation.validatefile import ValidateFile
+    from validatefile.main import ValidateFile
 
     val = ValidateFile(configfile='/path/to/config/file', sourcefile='/path/to/source/file')
 
